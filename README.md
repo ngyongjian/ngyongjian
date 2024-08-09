@@ -6,10 +6,10 @@
 ### <div align="center">Hi, I'm Yong Jian. I am in my sophomore year studying Computer Science and Economics (Double Degree) at NTU Singapore.</div>  
   
 
-- 🔭 My interest mainly lies in the domain of Data Science and Web Development.  
+- 🔭 My interest mainly lies in the domain of Data Science and Machine Learning.  
   
 
-- 🌱 I’m currently exploring the application of Data Analytics in the domain of Neuroscience.  
+- 🌱 I’m currently working as a Data Science and Optimization Intern at Shopee Singapore.  
   
 
 - 📫 Reach me at yongjianng02@gmail.com  
