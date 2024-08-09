@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi, I'm Yong Jian. I am in my sophomore year studying Computer Science and Economics (Double Degree) at NTU Singapore.</div>  
+### <div align="center">Hi, I'm Yong Jian. I am in my penultimate year studying Computer Science and Economics (Double Degree) at NTU Singapore.</div>  
   
 
 - 🔭 My interest mainly lies in the domain of Data Science and Machine Learning.  
